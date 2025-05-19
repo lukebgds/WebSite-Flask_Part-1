@@ -14,17 +14,6 @@ Ao finalizar esta parte, será possível realizar o deploy do site na plataforma
 
 ---
 
-## Rápida Introdução ao Tema do Site
-
-### Sobre o que é?
-TecnologyWay! Uma startup dedicada a criar soluções educacionais inovadoras. O MakingQUIZ é nossa mais recente empreitada, uma IA voltada para a criação de questionários interativos e personalizados, visando aprimorar a experiência de aprendizagem dos usuários.
-
-### Seu Objetivo
-O MakingQUIZ busca revolucionar a forma como questionários e avaliações educacionais são desenvolvidos e administrados. Ainda em estágio inicial, este repositório é um espaço para apresentar nossa ideia e progresso, destacando nossa abordagem baseada em HTML, CSS e JavaScript no desenvolvimento dessa IA.
-
-### Contribuição
-Estamos abertos a ideias, sugestões e colaborações! Se você acredita no potencial do MakingQUIZ e quer contribuir para o desenvolvimento, sinta-se à vontade para entrar em contato ou fazer um fork deste repositório.
-
 ### Autor
 - Lucas Benício Gusmão da Silva
 

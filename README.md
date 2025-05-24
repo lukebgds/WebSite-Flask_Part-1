@@ -15,7 +15,10 @@ Ao finalizar esta parte, será possível realizar o deploy do site na plataforma
 ---
 
 ### Autor
-- Lucas Benício Gusmão da Silva
+
+**Lucas Benício Gusmão da Silva**
+
+Idealizador, criador e desenvolvedor deste projeto.
 
 ``Todos os Direitos Reservados``
 

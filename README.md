@@ -21,6 +21,3 @@ Ao finalizar esta parte, será possível realizar o deploy do site na plataforma
 Idealizador, criador e desenvolvedor deste projeto.
 
 ``Todos os Direitos Reservados``
-
-### Contato
-Para saber mais sobre nós e nosso projeto, visite [Nosso Site](https://tecnology-way.vercel.app) (Deploy Vercel).
